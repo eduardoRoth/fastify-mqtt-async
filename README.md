@@ -5,7 +5,7 @@ Wrapper for [async-mqtt](https://www.npmjs.com/package/async-mqtt) with TS suppo
 ## Install
 
 ```
-npm i @eduardoroth/fastify-mqtt-async
+npm i @rohu/fastify-mqtt-async
 ```
 
 ## Using it
